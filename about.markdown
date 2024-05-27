@@ -6,4 +6,4 @@ permalink: /about/
 
 Hi, my name is Faiçal. I’m 40 and I am a software developer/DevOps currently working in a AI/Quantum computing startup in Germany. On side of my work, I study at La Sorbonne Universite in a distant learning program for an MSc in Physics. I am also particularly interested in fermentation techniques, especially Japanese fermentation techniques.
 
-Shokuninwaza means “craftsmanship” in Japanese, and this blogs is just my journey in two different craftsmanship domains: software engineering and food fermentation.
+Shokuninn means “craftsman” in Japanese, and this blogs is just my journey in two different craftsmanship domains: software engineering and food fermentation.
