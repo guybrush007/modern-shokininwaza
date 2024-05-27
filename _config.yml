@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Modern Shokuninw
+title: Modern Shokunin
 description: >- # this means to ignore newlines until "baseurl:"
   My name is Faiçal. I'm a French Software/DevOps engineer currently living in Berlin, Germany.
   I am exploring ML/AI/DevOps technologies, especially in the physics field.
