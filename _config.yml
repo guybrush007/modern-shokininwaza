@@ -57,6 +57,8 @@ show_excerpts: true
 header_pages:
   - physics.markdown
   - fermentation.markdown
+  - ml-ai.markdown
+  - ml-dev-ops.markdown
   - about.markdown
 
 paginate: true
