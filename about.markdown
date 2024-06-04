@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Faiçal. I’m 40 and I am a software developer/DevOps currently working in a AI/Quantum computing startup in Germany. On side of my work, I study at La Sorbonne Universite in a distant learning program for an MSc in Physics. I am also particularly interested in fermentation techniques, especially Japanese fermentation techniques.
+Hello, my name is Faiçal. I'm French, currently living in Berlin, Germany. I have been a software developer for almost 20 years and passionate about Japanese culture for almost all my life. I am also a proud member of the LGBTQ community :rainbow:
 
-Shokuninn means “craftsman” in Japanese, and this blogs is just my journey in two different craftsmanship domains: software engineering and food fermentation.
+Currently I work as a DevOps engineer in a science startup that harnesses the power of machine learning to solve quantum computers problems. I am also a (poor) distant MSc student at Sorbonne Universite, Paris,  where I try to get an academic education in Physics 
+
+Shokunin - 職人 means in Japanese: craftsman. This blog is just a journal of my exploration in different styles of craftsmanship: 
+- the modern ones with ML/AI, ML/DevOps. and quantum physics
+- the traditional ones mostly about fermentation techniques, especially Japanese fermentation techniques.
