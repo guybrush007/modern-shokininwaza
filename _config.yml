@@ -54,9 +54,3 @@ plugins:
 
 show_excerpts: true
 
-header_pages:
-  - physics.markdown
-  - about.markdown
-
-paginate: true
-
