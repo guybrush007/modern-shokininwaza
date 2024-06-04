@@ -11,3 +11,5 @@ Currently, I work as a DevOps engineer in a science startup that harnesses the p
 Shokunin - 職人 means in Japanese: craftsman. This blog is just a journal of my exploration in different styles of craftsmanship: 
 - the modern ones with ML/AI, ML/DevOps. and quantum physics
 - the traditional ones mostly about fermentation techniques, especially Japanese fermentation techniques.
+
+![alt text](about_me.png "About me")
