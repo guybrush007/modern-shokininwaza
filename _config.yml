@@ -23,8 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   My name is Faiçal. I'm a French Software/DevOps engineer currently living in Berlin, Germany.
   I am exploring ML/AI/DevOps technologies, especially in the physics field.
   I am also interested in non-technical subjects lie  Japanese fermentation.
-baseurl: "/modern-shokunin" # the subpath of your site, e.g. /blog
-url: "https://guybrush007.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://www.modern-shokunin.me" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  guybrush007
 
 # Build settings
