@@ -63,3 +63,4 @@ header_pages:
 
 paginate: true
 
+markdown: kramdown
