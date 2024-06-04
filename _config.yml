@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+markdown: kramdown
+
 title: Modern Shokunin - モダン職人
 description: >- # this means to ignore newlines until "baseurl:"
   My name is Faiçal (he/him). I'm a French Software/DevOps engineer currently living in Berlin, Germany.
@@ -62,5 +64,3 @@ header_pages:
   - about.markdown
 
 paginate: true
-
-markdown: kramdown
