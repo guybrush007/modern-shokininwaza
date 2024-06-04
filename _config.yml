@@ -55,8 +55,8 @@ plugins:
 show_excerpts: true
 
 header_pages:
-  - physics.markdown
-  - about.markdown
+  - physics.md
+  - about.md
 
 paginate: true
 
