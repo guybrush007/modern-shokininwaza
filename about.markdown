@@ -12,4 +12,4 @@ Shokunin - 職人 means in Japanese: craftsman. This blog is just a journal of m
 - the modern ones with ML/AI, ML/DevOps. and quantum physics
 - the traditional ones mostly about fermentation techniques, especially Japanese fermentation techniques.
 
-![About me](https://modern-shokunin.me/_images/about_me.png "About me")
+![About me](https://modern-shokunin.me/images/about_me.png "About me")
