@@ -5,4 +5,7 @@ date:   2024-06-02 03:00:00 +0200
 categories: 
   - physics
 ---
-Sample post about physics. Test some Latex $$\vert\psi\rangle = \frac{\vert 0 \rangle + \vert 1 \rangle}{\sqrt 2}$$
+Sample post about physics. Test some Latex 
+$$
+\vert\psi\rangle = \frac{\vert 0 \rangle + \vert 1 \rangle}{\sqrt 2}
+$$
