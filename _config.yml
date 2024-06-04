@@ -21,8 +21,7 @@
 title: Modern Shokunin - モダン職人
 description: >- # this means to ignore newlines until "baseurl:"
   My name is Faiçal. I'm a French Software/DevOps engineer currently living in Berlin, Germany.
-  I am exploring ML/AI/DevOps technologies, especially in the physics field.
-  I am also interested in non-technical subjects lie  Japanese fermentation.
+  Wannabe modern craftsman in ML/AI, ML/DevOps, Physics and traditional craftsman in fermentation techniques.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.modern-shokunin.me" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  guybrush007
