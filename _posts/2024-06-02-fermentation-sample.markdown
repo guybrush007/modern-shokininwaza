@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fermentation"
+title:  "Sample fermentation"
 date:   2024-06-02 00:00:00 +0200
 categories: 
   - fermentation

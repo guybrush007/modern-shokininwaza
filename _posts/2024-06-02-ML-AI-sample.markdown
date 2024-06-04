@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ML/AI"
+title:  "Sample ML/AI"
 date:   2024-06-02 01:00:00 +0200
 categories: 
   - ml-ai
