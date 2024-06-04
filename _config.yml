@@ -62,5 +62,3 @@ header_pages:
   - ml-ai.markdown
   - ml-dev-ops.markdown
   - about.markdown
-
-paginate: true
