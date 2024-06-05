@@ -6,3 +6,20 @@ categories:
   - ml-dev-ops
 ---
 Sample post about ML/DevOps
+
+Sample YAML:
+
+```yaml
+test:
+  - name1: value1
+  - name2: value2
+```
+
+```bash
+cp -R /origin /destination/$HOST
+```
+
+```python
+for i in range(0, 10):
+    print(i)
+```
