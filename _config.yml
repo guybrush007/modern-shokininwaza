@@ -20,9 +20,12 @@
 
 markdown: kramdown
 kramdown:
+  input: GFM
   math_engine: mathjax
+  syntax_highlighter: rouge
   syntax_highlighter_opts:
-    disable : true
+    disable: false
+highlighter: rouge
 
 
 title: Modern Shokunin - モダン職人
