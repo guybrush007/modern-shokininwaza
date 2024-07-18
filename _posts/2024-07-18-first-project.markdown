@@ -18,5 +18,5 @@ The project goal is to be able to solve a simple physics problem and to be able 
 *Next: How to simulate pure/mixed Hadamard and Bell states with QuTiP*
 
 Resources:
-[1] Paris, M., & Řeháček, J. (Eds.). (2004). Quantum State Estimation. Springer-Verlag. https://doi.org/10.1007/b98673
-[2] QuTiP Development Team. (n.d.). QuTiP: Quantum Toolbox in Python. Retrieved from https://qutip.org/
+- [1] Paris, M., & Řeháček, J. (Eds.). (2004). Quantum State Estimation. Springer-Verlag. [https://doi.org/10.1007/b98673](https://doi.org/10.1007/b98673)
+- [2] QuTiP Development Team. (n.d.). QuTiP: Quantum Toolbox in Python. Retrieved from [https://qutip.org](https://qutip.org)
